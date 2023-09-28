@@ -8,3 +8,12 @@ p {
     background-color: black;
     color: yellow;
 }
+
+.contenedor {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.contenido {
+   text-align: center;
+}
