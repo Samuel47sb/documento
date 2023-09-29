@@ -17,3 +17,16 @@ p {
 .contenido {
    text-align: center;
 }
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+    display: inline; 
+    padding: 10px; 
+}
