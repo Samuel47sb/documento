@@ -1,0 +1,31 @@
+h1 {
+    background-color: green;
+    color: black;
+}
+
+p {
+    padding: 10px;
+    background-color: black;
+    color: yellow;
+}
+
+.contenedor {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.contenido {
+   text-align: center;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.titulo h2 {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+}
