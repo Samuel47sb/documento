@@ -29,3 +29,16 @@ p {
     padding: 10px;
     border-radius: 5px;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
